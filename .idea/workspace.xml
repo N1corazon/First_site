@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d43ed4ea-262b-442c-b84a-946d2ab95600" name="Changes" comment="">
+    <list default="true" id="d43ed4ea-262b-442c-b84a-946d2ab95600" name="Changes" comment="react">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/First_site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/magento2plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/public/favicon.ico" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/first-site/public/images/chevron-down.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/first-site/public/images/icons8-menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/src/App.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/first-site/src/component/ChevronDownIcon.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/first-site/src/component/Navbar.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/first-site/src/component/Navbar.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/first-site/src/component/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +87,16 @@
       <workItem from="1669814721646" duration="7000" />
       <workItem from="1669814809797" duration="7663000" />
       <workItem from="1669882728740" duration="4231000" />
-      <workItem from="1669969324061" duration="599000" />
+      <workItem from="1669969324061" duration="621000" />
     </task>
+    <task id="LOCAL-00001" summary="react">
+      <created>1669990687702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669990687702</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +112,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="react" />
+    <option name="LAST_COMMIT_MESSAGE" value="react" />
   </component>
 </project>
