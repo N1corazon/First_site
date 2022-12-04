@@ -20,9 +20,9 @@ function Navbar() {
                     <h3>Manos Parisis</h3>
                     <h4>Clinical Nutritionist - Dietitian & Partners</h4>
                 </Box>
-                <Menu>
+                <Menu direction={"rtl"}>
                     <MenuButton className="menu-btn" as={IconButton} aria-label='Options' variant='outline' icon={<ChevronDownIcon />}/>
-                    <MenuList>
+                    <MenuList className="dropdown">
                         <MenuItem>Κεντρική Σελίδα</MenuItem>
                         <MenuItem>Η ομάδα μας</MenuItem>
                         <MenuItem>Μέτρηση Μεταβολισμού</MenuItem>
