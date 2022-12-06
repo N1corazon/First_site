@@ -17,6 +17,7 @@
     background: transparent;
     outline: 0;
     border: 0;
+    cursor: pointer;
 }
 
 .nav-links {
@@ -47,7 +48,7 @@
     border-radius: 10px;
     padding: 10px 0px;
     border: solid 1px white;
-    box-shadow: 5px 6px grey;
+    box-shadow: 4px 4px 12px #444444;
 }
 
 .chakra-menu__menuitem {
@@ -59,5 +60,11 @@
 
 .chakra-menu__menuitem:hover {
     background-color: #2491d566;
+}
+
+.link {
+    width: 100%;
+    text-decoration: none;
+    color: white;
 }
 

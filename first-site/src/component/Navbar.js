@@ -1,6 +1,6 @@
 import React from "react";
 import {HStack, Box, Center, Square, Circle} from "@chakra-ui/react";
-import { Link } from "react-router-dom";
+import {Link} from "react-router-dom";
 import "./Navbar.css"
 import {
     Menu,
@@ -21,10 +21,19 @@ function Navbar() {
                     <h4>Clinical Nutritionist - Dietitian & Partners</h4>
                 </Box>
                 <Menu direction={"rtl"}>
-                    <MenuButton className="menu-btn" as={IconButton} aria-label='Options' variant='outline' icon={<ChevronDownIcon />}/>
+                    <MenuButton className="menu-btn" as={IconButton} aria-label='Options' variant='outline'
+                                icon={<ChevronDownIcon/>}/>
                     <MenuList className="dropdown">
-                        <MenuItem>Κεντρική Σελίδα</MenuItem>
-                        <MenuItem>Η ομάδα μας</MenuItem>
+                        <MenuItem>
+                            <Link to={"/"} className={"link"}>
+                                Κεντρική Σελίδα
+                            </Link>
+                        </MenuItem>
+                        <MenuItem>
+                            <Link to={"/bio"} className={"link"}>
+                                Η ομάδα μας
+                            </Link>
+                        </MenuItem>
                         <MenuItem>Μέτρηση Μεταβολισμού</MenuItem>
                         <MenuItem>Κόστος Συνεδρίας</MenuItem>
                         <MenuItem>Eπικοινωνία</MenuItem>

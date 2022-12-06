@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d43ed4ea-262b-442c-b84a-946d2ab95600" name="Changes" comment="react">
-      <change afterPath="$PROJECT_DIR$/first-site/public/images/manosparisis_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/public/images/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/public/images/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/public/images/kelu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/public/images/manos.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/public/images/manosSmall.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/src/component/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/src/component/pages/Bio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-site/src/component/pages/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-site/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-site/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-site/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-site/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-site/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-site/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-site/src/component/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/first-site/src/component/Navbar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-site/src/component/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-site/src/component/Navbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-site/src/component/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-site/src/component/pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-site/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-site/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +79,7 @@
       <workItem from="1669969324061" duration="621000" />
       <workItem from="1670050580141" duration="3896000" />
       <workItem from="1670144679096" duration="2663000" />
+      <workItem from="1670315505872" duration="11678000" />
     </task>
     <task id="LOCAL-00001" summary="react">
       <created>1669990687702</created>

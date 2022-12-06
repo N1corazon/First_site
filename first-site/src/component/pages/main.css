@@ -1,0 +1,16 @@
+.ptb{
+    padding: 5rem 0;
+}
+
+.title{
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 40px;
+}
+
+.text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.18px;
+}
